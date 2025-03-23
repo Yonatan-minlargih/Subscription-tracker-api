@@ -3,6 +3,7 @@ and includes but not limited to JWT authentication, database modeling, API archi
 Tech stack used -> MongoDB with Mongoose,Node.js and Express.js.
 
 To run the Application:
+
 #install all dependencies using
 npm install
 
